@@ -23,7 +23,7 @@ public class Session1_BoxDimesion {
 		
 		
 		Dimension dimension=fontSize.getSize();
-		Dimension dimension1=fontSize.getSize();
+		Dimension dimensi1=fontSize.getSize();
 		System.out.println("===================");
 		System.out.println("height::"+dimension.height);
 		System.out.println("Width::"+dimension.width);
