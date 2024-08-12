@@ -23,7 +23,7 @@ public class Session1_BoxDimesion {
 		
 		
 		Dimension dimension=fontSize.getSize();
-		System.out.println("Size of search box");
+		System.out.println("Dimension of search box");
 		System.out.println("===================");
 		System.out.println("height::"+dimension.height);
 		System.out.println("Width::"+dimension.width);
