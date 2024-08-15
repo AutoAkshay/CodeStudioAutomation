@@ -15,6 +15,10 @@ class Test extends doneTest{
 	static void Testing() {
 		 System.out.println(24+"Satish"+"Mumbai");
 	 }
+	
+	static void Testing2() {
+		 System.out.println(24+"Satish"+"Mumbai");
+	 }
 }
 
 class Test2 extends Test{
